@@ -13,7 +13,7 @@ function App() {
   const [input, setInput] = useState("");
   const [messeges, setMesseges] = useState([
     // { username:"mubashir", messege:"i love you"},
-    // { username:"nadia", messege:"i love you too"}
+    // { username:"unknown", messege:"i love you too"}
   ]);
   const [username, setUsername] = useState('');
 
